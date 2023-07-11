@@ -1,0 +1,10 @@
+package com.bbo.study4.s1;
+
+public class Hap {
+	
+	public void h1(int num1, int num2) {
+		int sum = num1+num2;
+		System.out.println(sum);
+	}
+
+}

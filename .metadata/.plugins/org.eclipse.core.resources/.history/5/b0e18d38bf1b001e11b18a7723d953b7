@@ -1,0 +1,19 @@
+package com.bbo.study4.s3;
+
+public class S3Main {
+
+	public static void main(String[] args) {
+		Test test = new Test();
+		test.method1();
+		System.out.println(test);
+		
+		Test test2 = new Test();
+			test2.num1=2;
+			test2.num2=1.2;
+			test2.method1();
+			System.out.println(test2);
+		
+
+	}
+
+}

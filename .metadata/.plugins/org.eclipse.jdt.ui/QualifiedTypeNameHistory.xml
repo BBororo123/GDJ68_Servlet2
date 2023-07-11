@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.bbo.study4.Rifle"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.Student"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s2.Chef"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s2.Ramyun"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s2.StudentController"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s2.StudentView"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s2.StudentService"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s3.Test"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s3.Phone"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s3.Car"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s4.Product"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s4.Student"/>
+    <fullyQualifiedTypeName name="com.bbo.study4.s2.Student"/>
+</qualifiedTypeNameHistroy>

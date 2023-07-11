@@ -1,0 +1,17 @@
+package com.bbo.study4.s5;
+
+public class StaticTest {
+	
+	public int instanceNum;
+	
+	public static int staticNum;
+	
+	public void instanceMethod() {
+		System.out.println("멤버메서드");		
+	}
+	
+	public static void staticMethod() {
+		System.out.println("클래스메서드");
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.bbo.study5.s1;
+
+public abstract class Archer extends Character {
+	
+	
+	
+}

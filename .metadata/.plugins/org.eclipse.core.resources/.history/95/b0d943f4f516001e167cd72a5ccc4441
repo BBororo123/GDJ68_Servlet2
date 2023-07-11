@@ -1,0 +1,14 @@
+package com.bbo.study4;
+
+public class Soldier {
+	
+	String grade;
+	int num;
+	int [] ar;
+	
+	public void attack() {
+		Rifle rifle = new Rifle();
+		rifle.shoot1();
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.bbo.study4.s2;
+
+public class Chef {
+	
+	String name;
+	
+	public void makeRamyun(int count) {
+		
+	}
+
+	public void makeKimbap() {
+		
+	}
+	
+}

@@ -1,0 +1,16 @@
+package com.bbo.study4.s3;
+
+public class Test {
+	
+	int num1;
+	double num2;
+	
+	
+	
+	public void method1() {
+		//참조변수명.멤버변수명
+		System.out.println(this.num1+num2);
+		System.out.println(this);
+	}
+
+}

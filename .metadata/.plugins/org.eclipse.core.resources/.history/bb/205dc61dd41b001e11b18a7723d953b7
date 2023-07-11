@@ -1,0 +1,12 @@
+package com.bbo.study4.s4;
+
+public class Product {
+	
+	private String name;
+	private String price;
+	
+	public void info() {
+		System.out.println(this.name);
+	}
+
+}

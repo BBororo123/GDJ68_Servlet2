@@ -1,0 +1,28 @@
+package com.bbo.study4.s2;
+
+public class Chef {
+	
+	String name;
+	
+	public Ramyun makeRamyun(int count) {
+//		Ramyun ramyun = new Ramyun();
+//		Ramyun ramyun2 = new Ramyun();
+//		ramyun2 = ramyun;
+//		ramyun2 = new Ramyun();
+//		int num=2;
+//		num=3;
+		for(int i=0;i<count;i++) {
+			Ramyun ramyun = new Ramyun();
+			ramyun.title="진라면";
+			ramyun.price=3000;
+		}
+		
+		Ramyun r1 = new Ramyun();
+		return r1;
+	}
+
+	public void makeKimbap() {
+		
+	}
+	
+}

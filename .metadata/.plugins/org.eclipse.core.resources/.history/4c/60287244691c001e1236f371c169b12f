@@ -1,0 +1,9 @@
+package com.bbo.study5.s1;
+
+public class worrier {
+
+	public void meleeAttack() {
+		System.out.println("칼공격");
+	}
+
+}

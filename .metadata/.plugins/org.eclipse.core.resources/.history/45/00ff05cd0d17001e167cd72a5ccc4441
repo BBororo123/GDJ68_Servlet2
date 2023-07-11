@@ -1,0 +1,15 @@
+package com.bbo.study4.s1;
+
+public class S1Main {
+
+	public static void main(String[] args) {
+		//
+		Hap hap = new Hap();
+		
+		int sum = hap.h1(10, 20);
+		
+		//*2
+		System.out.println(sum*999999);
+	}
+
+}

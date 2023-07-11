@@ -1,0 +1,14 @@
+package com.bbo.study4.s3;
+
+public class Test {
+	
+	int num1;
+	double num2;
+	
+	
+	
+	public void method1() {
+		System.out.println(num1+num2);
+	}
+
+}
